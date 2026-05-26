@@ -4,7 +4,7 @@ namespace CSharpLab
     {
         static void Main()
         {
-            MathUtils mathUtils;
+            MathUtils mathUtils;//DSADSA
             global::System.Console.WriteLine(mathUtils.MathUtils());
         }
     }
